@@ -114,19 +114,10 @@ The dashboard currently tracks:
 - Individual product metrics
 - Seller statistics
 
-## 🔐 Access Levels
-- Admin: Full access to all metrics
-- Seller: Access to own product metrics
-- Analyst: Read-only access to all metrics
-
 ## 🔄 Update History
 - Initial Release: 2022
 - Data Range: May 2022 - June 2022
 
-## 📞 Support
-For technical support or data inquiries, please contact:
-- Dashboard Support Team
-- Email: support@dashboard.com
 
 ## 📝 Notes
 - All financial figures are in INR
