@@ -125,7 +125,5 @@ The dashboard currently tracks:
 - Geographic data is limited to Indian territory
 
 ---
-*Last Updated: 2022*
-```
+*Last Updated: 2024*
 
-This README.md provides a comprehensive overview of the dashboard, its features, and usage instructions. Would you like me to expand on any particular section or add additional information?
