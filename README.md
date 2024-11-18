@@ -46,12 +46,12 @@ This dashboard provides comprehensive sales analytics and revenue tracking for A
 - Baby Carriers
 - Bag Organizers
 - Boys Clothing
-  - Belts
-  - Boxer Shorts
-  - Clothing Sets
-  - Dhotis Mundu
-  - Dungarees
-  And many more. Contact me to know more.
+- Belts
+- Boxer Shorts
+- Clothing Sets
+- Dhotis Mundu
+- Dungarees
+-And many more. Contact me to know more.
 ## 📊 Metrics Tracked
 - Sales Units
 - Revenue
