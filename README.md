@@ -51,7 +51,7 @@ This dashboard provides comprehensive sales analytics and revenue tracking for A
 - Clothing Sets
 - Dhotis Mundu
 - Dungarees
--And many more. Contact me to know more.
+- And many more. Contact me to know more.
 ## 📊 Metrics Tracked
 - Sales Units
 - Revenue
